@@ -1,0 +1,14 @@
+{
+  "name": "k-school",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chanwoo00106/k-school.git",
+  "author": "변찬우 <57276315+chanwoo00106@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
